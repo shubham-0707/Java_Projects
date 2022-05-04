@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="array using functions implemented">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/two_D_array.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="2D array using functions">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/rotate_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/basic_programs/string_to_integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +44,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.two_D_array">
-    <configuration name="array_using_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.array_using_functions" />
+  <component name="RunManager" selected="Application.string_to_integer">
+    <configuration name="rotate_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.rotate_an_array" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.basic_programs.isArmstrong" />
+    <configuration name="string_to_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basic_programs.string_to_integer" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one_D_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.one_D_array" />
+    <configuration name="sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basic_programs.sum" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Arrays.*" />
+          <option name="PATTERN" value="com.example.basic_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one_D_array_using_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.one_D_array_using_functions" />
+    <configuration name="to_charArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.to_charArray" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.string_to_integer" />
+        <item itemvalue="Application.sum" />
+        <item itemvalue="Application.to_charArray" />
+        <item itemvalue="Application.rotate_an_array" />
         <item itemvalue="Application.two_D_array" />
-        <item itemvalue="Application.array_using_functions" />
-        <item itemvalue="Application.one_D_array_using_functions" />
-        <item itemvalue="Application.one_D_array" />
-        <item itemvalue="Application.isArmstrong" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651561061217</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2D array using functions">
+      <created>1651657621814</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651657621814</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +203,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="new files added" />
     <MESSAGE value="array using functions implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="array using functions implemented" />
+    <MESSAGE value="2D array using functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D array using functions" />
   </component>
 </project>
