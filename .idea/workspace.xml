@@ -4,7 +4,6 @@
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/rotate_an_array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/basic_programs/isPalindrome_2nd_approach.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/basic_programs/isPalindrome_3rd_approach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651766570219</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new program added">
+      <created>1651767313016</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651767313016</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
