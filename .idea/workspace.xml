@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/compute_power.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/count_prefixes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/ptice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652285246844</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new program added">
+      <created>1652285580017</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652285580017</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
