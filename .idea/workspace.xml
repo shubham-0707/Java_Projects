@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/calculate_gcd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/count_hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/sum_of_number_digits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/count_prefixes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -258,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652285913237</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="new program added">
+      <created>1652289155390</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652289155390</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
