@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/bunny_ears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/compute_power.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/count_prefixes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/ptice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
@@ -46,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bunny_ears">
+  <component name="RunManager" selected="Application.compute_power">
     <configuration name="ToBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Strings.ToBinaryString" />
       <module name="Java_Problems" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_prefixes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Strings.count_prefixes" />
+    <configuration name="compute_power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.compute_power" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Strings.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.compute_power" />
         <item itemvalue="Application.bunny_ears" />
         <item itemvalue="Application.ToBinaryString" />
         <item itemvalue="Application.test_string" />
         <item itemvalue="Application.ptice" />
-        <item itemvalue="Application.count_prefixes" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652264360012</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new program added">
+      <created>1652285246844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652285246844</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
