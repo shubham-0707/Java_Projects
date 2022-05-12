@@ -4,8 +4,9 @@
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/count_hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/fibonacci_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/display_array_elements.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fibonacci_number">
+  <component name="RunManager" selected="Application.display_array_elements">
     <configuration name="calculate_gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Recursion.calculate_gcd" />
       <module name="Java_Problems" />
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compute_power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.compute_power" />
+    <configuration name="display_array_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.display_array_elements" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.display_array_elements" />
         <item itemvalue="Application.fibonacci_number" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.calculate_gcd" />
         <item itemvalue="Application.sum_of_number_digits" />
-        <item itemvalue="Application.compute_power" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652351307250</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new program added">
+      <created>1652351625810</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1652351625810</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
