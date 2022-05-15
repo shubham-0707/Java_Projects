@@ -50,7 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.count_hi">
+  <component name="RunManager" selected="Application.isPowerOfThree">
     <configuration name="ArrayList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Arrays.ArrayList_implementation" />
       <module name="Java_Problems" />
@@ -118,9 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isPowerOfThree" />
         <item itemvalue="Application.count_hi" />
         <item itemvalue="Application.Kth_symbol_in_grammar" />
-        <item itemvalue="Application.isPowerOfThree" />
         <item itemvalue="Application.ArrayList_implementation" />
         <item itemvalue="Application.test_string" />
       </list>
