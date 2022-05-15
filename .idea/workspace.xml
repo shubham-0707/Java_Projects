@@ -6,12 +6,9 @@
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/relative_ranks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/sort_an_array_in_decreasing_order.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/to_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/count_hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/isPowerOfThree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/max_in_an_array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/Kth_symbol_in_grammar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652381911094</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new program added">
+      <created>1652590341781</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652590341781</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new program added">
+      <created>1652590509021</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652590509021</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
