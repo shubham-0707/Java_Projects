@@ -48,7 +48,7 @@ public class relative_ranks {
 
         for(int i=0 ; i<arr.length ; i++){
             int idx = binary_search(arr , score[i]);
-            System.out.println(idx);
+
             if(idx==arr.length){
                 ans[i]="Gold Medal";
             }

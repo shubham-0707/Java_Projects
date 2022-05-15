@@ -47,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.isPowerOfThree">
+  <component name="RunManager" selected="Application.relative_ranks">
     <configuration name="ArrayList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Arrays.ArrayList_implementation" />
       <module name="Java_Problems" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Strings.test_string" />
+    <configuration name="relative_ranks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.relative_ranks" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Strings.*" />
+          <option name="PATTERN" value="com.example.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.relative_ranks" />
         <item itemvalue="Application.isPowerOfThree" />
         <item itemvalue="Application.count_hi" />
         <item itemvalue="Application.Kth_symbol_in_grammar" />
         <item itemvalue="Application.ArrayList_implementation" />
-        <item itemvalue="Application.test_string" />
       </list>
     </recent_temporary>
   </component>
