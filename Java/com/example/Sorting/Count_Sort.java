@@ -17,12 +17,12 @@ public class Count_Sort {
         n = sc.nextInt();
 
         System.out.println("Enter n elements : ");
-        int arr[] = new int[n];
+        int[] arr = new int[n];
         for(int i=0 ; i<n; i++ ){
             arr[i] = sc.nextInt();
         }
 
-        int count[] = new int[101];
+        int[] count = new int[101];
         for(int i=0 ; i<n ; i++){
             count[arr[i]]++;
         }
