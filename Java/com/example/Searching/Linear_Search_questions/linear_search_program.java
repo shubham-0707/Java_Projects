@@ -7,7 +7,7 @@ import java.util.*;
 /* Linear Search : In this searching technique every element is checked un till the key element is not found
 in the array. If the array element is not found in the array then -1 is returned to the user.
 
-Time Complexity : O(log(n)) because every element is checked for the key element..
+Time Complexity : O(n) because every element is checked for the key element..
 * */
 public class linear_search_program {
     public static void main(String[] args) {
