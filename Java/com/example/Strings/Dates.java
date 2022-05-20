@@ -2,7 +2,7 @@ package com.example.Strings;
 import java.util.*;
 
 
-// In this program the dates are input as string and their format is to be changed...
+// In this program the dates are input as string and their format is to be cha
 public class Dates {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
