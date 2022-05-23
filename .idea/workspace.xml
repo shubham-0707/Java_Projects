@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/binary_search_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Bubble_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Strings/test_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.binary_search_program">
+  <component name="RunManager" selected="Application.Bubble_Sort">
+    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Bubble_Sort" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Strings.Dates" />
       <module name="Java_Problems" />
@@ -70,19 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_sort_with_negative_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.count_sort_with_negative_elements" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="linear_search_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Searching.Linear_Search_questions.linear_search_program" />
       <module name="Java_Problems" />
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Strings.test_string" />
+    <configuration name="word_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Strings.word_pattern" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort" />
+        <item itemvalue="Application.word_pattern" />
         <item itemvalue="Application.binary_search_program" />
         <item itemvalue="Application.linear_search_program" />
         <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.test_string" />
-        <item itemvalue="Application.count_sort_with_negative_elements" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653058417662</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="new program added">
+      <created>1653065500166</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1653065500166</updated>
+    </task>
+    <task id="LOCAL-00045" summary="new program added">
+      <created>1653065596447</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1653065596447</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
