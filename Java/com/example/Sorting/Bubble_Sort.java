@@ -2,6 +2,8 @@ package com.example.Sorting;
 import java.util.*;
 
 // Program to implement bubble sort in array...
+
+/* Time Complexity : The time complexity of Bubble Sort is O(n square) */
 public class Bubble_Sort {
     public static void main(String[] args) {
         System.out.println("Enter n : ");
