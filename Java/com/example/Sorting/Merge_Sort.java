@@ -2,7 +2,7 @@ package com.example.Sorting;
 import java.util.*;
 
 
-/* Time Complexity : The time complexity of the merge Sort is O(nlogn)...*/
+/* Time Complexity : The time complexity of the merge Sort is O(nlogn)... */
 
 // Program to implement the merge sort in arrays...
 public class Merge_Sort {
