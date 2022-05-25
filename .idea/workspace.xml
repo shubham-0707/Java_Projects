@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/find_squareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/binary_search_inbuilt_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_insert_position.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/reverse_words_of_a_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.find_squareRoot">
+  <component name="RunManager" selected="Application.binary_search_inbuilt_function">
     <configuration name="ArrayList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ArrayList.ArrayList_implementation" />
       <module name="Java_Problems" />
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Merge_Sort" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Merge_Sort" />
+    <configuration name="binary_search_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.binary_search_inbuilt_function" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Sorting.*" />
+          <option name="PATTERN" value="com.example.Searching.Binary_Search_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.binary_search_inbuilt_function" />
         <item itemvalue="Application.find_squareRoot" />
         <item itemvalue="Application.reverse_words_of_a_string" />
         <item itemvalue="Application.Merge_Sort" />
         <item itemvalue="Application.ArrayList_implementation" />
-        <item itemvalue="Application.Insertion_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -128,13 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new files added">
-      <created>1651516213233</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1651516213233</updated>
     </task>
     <task id="LOCAL-00006" summary="new files added">
       <created>1651559346046</created>
@@ -472,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653408187790</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="new program added">
+      <created>1653420675547</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1653420675547</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,5 +494,20 @@
     <MESSAGE value="2D array using functions" />
     <MESSAGE value="new program added" />
     <option name="LAST_COMMIT_MESSAGE" value="new program added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/binary_search_inbuilt_function.java</url>
+          <line>4</line>
+          <properties class="com.example.Searching.Binary_Search_questions.binary_search_inbuilt_function" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
