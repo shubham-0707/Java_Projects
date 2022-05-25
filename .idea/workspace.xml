@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_insert_position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/john_and_jack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/reverse_words_of_a_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,20 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.search_insert_position">
-    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Merge_Sort" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.john_and_jack">
     <configuration name="binary_search_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.binary_search_inbuilt_function" />
       <module name="Java_Problems" />
@@ -77,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.Searching.Binary_Search_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="john_and_jack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.john_and_jack" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.john_and_jack" />
         <item itemvalue="Application.search_insert_position" />
         <item itemvalue="Application.binary_search_inbuilt_function" />
         <item itemvalue="Application.find_squareRoot" />
         <item itemvalue="Application.reverse_words_of_a_string" />
-        <item itemvalue="Application.Merge_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -128,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00007" summary="array using functions implemented">
-      <created>1651561061217</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1651561061217</updated>
     </task>
     <task id="LOCAL-00008" summary="2D array using functions">
       <created>1651657621814</created>
@@ -472,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653459595658</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="new program added">
+      <created>1653460877870</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1653460877870</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
