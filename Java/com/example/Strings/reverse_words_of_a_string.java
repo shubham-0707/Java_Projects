@@ -1,6 +1,8 @@
 package com.example.Strings;
 import java.util.*;
 
+
+// Program to reverse an array and remove extra spaces...
 public class reverse_words_of_a_string {
     public static void main(String[] args) {
         String s = "a good   example";
