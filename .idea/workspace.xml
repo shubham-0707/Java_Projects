@@ -44,22 +44,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.search_in_a_mountain_array">
+  <component name="RunManager" selected="Application.reverse_words_of_a_string">
     <configuration name="binary_search_inbuilt_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.binary_search_inbuilt_function" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Searching.Binary_Search_questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="find_squareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.find_squareRoot" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -77,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_words_of_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Strings.reverse_words_of_a_string" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverse_words_of_a_string" />
         <item itemvalue="Application.search_in_a_mountain_array" />
         <item itemvalue="Application.john_and_jack" />
         <item itemvalue="Application.search_insert_position" />
         <item itemvalue="Application.binary_search_inbuilt_function" />
-        <item itemvalue="Application.find_squareRoot" />
       </list>
     </recent_temporary>
   </component>
