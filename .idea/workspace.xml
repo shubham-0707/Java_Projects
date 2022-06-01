@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/calculate_1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_rotated_sorted_array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_mountain_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_mountain_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/Sorting/Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Insertion_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.search_in_a_mountain_array">
+  <component name="RunManager" selected="Application.Insertion_Sort">
     <configuration name="Equality_in_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Arrays.Equality_in_an_array" />
       <module name="Java_Problems" />
@@ -57,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="john_and_jack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.john_and_jack" />
+    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Arrays.*" />
+          <option name="PATTERN" value="com.example.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse_words_of_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Strings.reverse_words_of_a_string" />
+    <configuration name="calculate_1s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.calculate_1s" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Strings.*" />
+          <option name="PATTERN" value="com.example.Searching.Binary_Search_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="search_insert_position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.search_insert_position" />
+    <configuration name="search_in_a_rotated_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.search_in_a_rotated_sorted_array" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Insertion_Sort" />
+        <item itemvalue="Application.calculate_1s" />
+        <item itemvalue="Application.search_in_a_rotated_sorted_array" />
         <item itemvalue="Application.search_in_a_mountain_array" />
         <item itemvalue="Application.Equality_in_an_array" />
-        <item itemvalue="Application.reverse_words_of_a_string" />
-        <item itemvalue="Application.john_and_jack" />
-        <item itemvalue="Application.search_insert_position" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00014" summary="new program added">
-      <created>1652285246844</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1652285246844</updated>
     </task>
     <task id="LOCAL-00015" summary="new program added">
       <created>1652285580017</created>
@@ -471,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653554661850</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="new program added">
+      <created>1653591665324</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1653591665324</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -23,17 +23,16 @@ public class Insertion_Sort {
             int j=i-1;
             int key = arr[i];
 
-            while(j>=0 && arr[j]>key){
+            while(j>=0 && key<arr[j]){
                 arr[j+1] = arr[j];
                 j=j-1;
             }
             arr[j+1] = key;
         }
 
-        System.out.println("The sorted array is : ");
-        for(int i=0 ; i<n ; i++){
-            System.out.print(arr[i] + " ");
+        System.out.println("The sorted array is...");
+        for(int x:arr){
+            System.out.print(x+" ");
         }
-
     }
 }
