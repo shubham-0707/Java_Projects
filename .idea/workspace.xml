@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/calculate_1s.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_rotated_sorted_array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/Sorting/Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Insertion_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +43,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Insertion_Sort">
-    <configuration name="Equality_in_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.Equality_in_an_array" />
+  <component name="RunManager" selected="Application.Quick_Sort">
+    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Arrays.*" />
+          <option name="PATTERN" value="com.example.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
+    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Quick_Sort" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quick_Sort" />
         <item itemvalue="Application.Insertion_Sort" />
         <item itemvalue="Application.calculate_1s" />
         <item itemvalue="Application.search_in_a_rotated_sorted_array" />
         <item itemvalue="Application.search_in_a_mountain_array" />
-        <item itemvalue="Application.Equality_in_an_array" />
       </list>
     </recent_temporary>
   </component>
@@ -129,20 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00015" summary="new program added">
-      <created>1652285580017</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1652285580017</updated>
-    </task>
-    <task id="LOCAL-00016" summary="new program added">
-      <created>1652285868655</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1652285868655</updated>
     </task>
     <task id="LOCAL-00017" summary="new program added">
       <created>1652285876484</created>
@@ -473,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653591665324</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="new program added">
+      <created>1654090602687</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1654090602687</updated>
+    </task>
+    <task id="LOCAL-00065" summary="new program added">
+      <created>1654090676691</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1654090676691</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
