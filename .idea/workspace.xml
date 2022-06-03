@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
       <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_rotated_sorted_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/reverse_a_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Sorting/Quick_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Quick_Sort">
+  <component name="RunManager" selected="Application.reverse_a_string">
     <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
       <module name="Java_Problems" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="search_in_a_mountain_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Searching.Binary_Search_questions.search_in_a_mountain_array" />
+    <configuration name="reverse_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Strings.reverse_a_string" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Searching.Binary_Search_questions.*" />
+          <option name="PATTERN" value="com.example.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverse_a_string" />
         <item itemvalue="Application.Quick_Sort" />
         <item itemvalue="Application.Insertion_Sort" />
         <item itemvalue="Application.calculate_1s" />
         <item itemvalue="Application.search_in_a_rotated_sorted_array" />
-        <item itemvalue="Application.search_in_a_mountain_array" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00017" summary="new program added">
-      <created>1652285876484</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1652285876484</updated>
     </task>
     <task id="LOCAL-00018" summary="new program added">
       <created>1652285913237</created>
@@ -471,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654090676691</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="new program added">
+      <created>1654107941723</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1654107941723</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

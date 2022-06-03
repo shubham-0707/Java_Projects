@@ -5,9 +5,8 @@ import java.util.*;
 // Program to implement the quick Sort in arrays...
 public class Quick_Sort {
 
-    public static int partition(int[] arr , int low , int high){
+    public static int partition(int[] arr  , int low , int high){
         int pivot = arr[high];
-
         int i=low-1;
 
         for(int j=low ; j<high ; j++){
@@ -19,9 +18,9 @@ public class Quick_Sort {
             }
         }
         i++;
-        int temp = arr[high];
-        arr[high] = arr[i];
-        arr[i] = temp;
+        int temp = arr[i];
+        arr[i] = arr[high];
+        arr[high] = temp;
 
         return i;
     }
@@ -37,9 +36,8 @@ public class Quick_Sort {
     }
 
     public static void main(String[] args) {
-        int n;
         Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
+        int n = sc.nextInt();
 
         int[] arr = new int[n];
 
@@ -49,11 +47,12 @@ public class Quick_Sort {
 
         quickSort(arr , 0 , n-1);
 
-        System.out.println("The sorted array is....");
+
+        System.out.println("The sorted array is...");
 
         for(int i=0 ; i<n ; i++){
             System.out.print(arr[i]+" ");
         }
     }
 
-}
+ }
