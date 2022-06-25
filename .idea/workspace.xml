@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/LinkedList/SingleLinkedList/Single_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/find_unique_in_array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_rotated_sorted_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/LinkedList/LinkedList_implementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/LinkedList/LinkedList_using_inbuilt_functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/LinkedList/SingleLinkedList/Single_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/LinkedList/Single_Linked_List/Single_Linked_List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Single_Linked_List">
-    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Insertion_Sort" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.find_unique_in_array">
     <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Sorting.Quick_Sort" />
       <module name="Java_Problems" />
@@ -96,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="find_unique_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.find_unique_in_array" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reverse_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Strings.reverse_a_string" />
       <module name="Java_Problems" />
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.find_unique_in_array" />
         <item itemvalue="Application.Single_Linked_List" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.reverse_a_string" />
         <item itemvalue="Application.Quick_Sort" />
-        <item itemvalue="Application.Insertion_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00020" summary="new program added">
-      <created>1652294461178</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1652294461178</updated>
     </task>
     <task id="LOCAL-00021" summary="new program added">
       <created>1652351307250</created>
@@ -471,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656062130471</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="new program added">
+      <created>1656065251736</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1656065251736</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
