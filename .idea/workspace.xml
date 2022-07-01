@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/SubArray_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/count_distinct_elements_in_a_window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SubArray_Sum">
-    <configuration name="ArrayList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ArrayList.ArrayList_implementation" />
+  <component name="RunManager" selected="Application.count_distinct_elements_in_a_window">
+    <configuration name="SubArray_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.SubArray_Sum" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.ArrayList.*" />
+          <option name="PATTERN" value="com.example.Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArray_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.SubArray_Sum" />
+    <configuration name="count_distinct_elements_in_a_window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.count_distinct_elements_in_a_window" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.count_distinct_elements_in_a_window" />
         <item itemvalue="Application.SubArray_Sum" />
         <item itemvalue="Application.minimumCoins" />
         <item itemvalue="Application.reverseStack" />
         <item itemvalue="Application.print_Pattern" />
-        <item itemvalue="Application.ArrayList_implementation" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00026" summary="new program added">
-      <created>1652381911094</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1652381911094</updated>
     </task>
     <task id="LOCAL-00027" summary="new program added">
       <created>1652590341781</created>
@@ -470,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656698226872</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="new program added">
+      <created>1656702858310</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1656702858310</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
