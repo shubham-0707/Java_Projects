@@ -16,6 +16,7 @@ public class ArrayList_implementation {
         arr.add(10);
         arr.add(15);
 
+        //System.out.println(arr.stream().count(5)
         // The size of the arraylist is accessed by using the method "size()"...
         // The element at any particular index
 
