@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/minimumCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/reverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Searching/Binary_Search_questions/search_in_a_rotated_sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/SubArray_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/ArrayList/ArrayList_implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/ArrayList/ArrayList_implementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/LinkedList/LinkedList_implementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/LinkedList/LinkedList_using_inbuilt_functions.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.minimumCoins">
+  <component name="RunManager" selected="Application.SubArray_Sum">
     <configuration name="ArrayList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ArrayList.ArrayList_implementation" />
       <module name="Java_Problems" />
@@ -62,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intersection_of_two_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.intersection_of_two_arrays" />
+    <configuration name="SubArray_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.SubArray_Sum" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArray_Sum" />
         <item itemvalue="Application.minimumCoins" />
         <item itemvalue="Application.reverseStack" />
         <item itemvalue="Application.print_Pattern" />
         <item itemvalue="Application.ArrayList_implementation" />
-        <item itemvalue="Application.intersection_of_two_arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -132,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00024" summary="new program added">
-      <created>1652371873532</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1652371873532</updated>
-    </task>
-    <task id="LOCAL-00025" summary="new program added">
-      <created>1652378728984</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1652378728984</updated>
     </task>
     <task id="LOCAL-00026" summary="new program added">
       <created>1652381911094</created>
@@ -476,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656153483033</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="new program added">
+      <created>1656698200355</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1656698200356</updated>
+    </task>
+    <task id="LOCAL-00074" summary="new program added">
+      <created>1656698226872</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1656698226872</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
