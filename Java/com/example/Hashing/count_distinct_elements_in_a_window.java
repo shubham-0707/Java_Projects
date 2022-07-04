@@ -15,8 +15,8 @@ public class count_distinct_elements_in_a_window {
         int k = sc.nextInt();
 
         HashMap<Integer , Integer> hash = new HashMap<>();
-        for(int i=0 ; i<k ; i++){
-            hash.put(arr[i] , hash.getOrDefault(arr[i] , 0)+1);
+        for(int i=0 ; i<k ; i++) {
+            hash.put(arr[i], hash.getOrDefault(arr[i], 0) + 1);
         }
         System.out.println(hash.size());
         int x = 0;
