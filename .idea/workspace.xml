@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Stack using LinkedList...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Stack_Default_Implementation.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Stack using in built class in java...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stack_Default_Implementation">
+  <component name="RunManager" selected="Application.Next_Greater_Element">
     <configuration name="ArrayImplementataionOfStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.ArrayImplementataionOfStack" />
       <module name="Java_Problems" />
@@ -57,6 +58,19 @@
     </configuration>
     <configuration name="LinkedList_Implementation_Of_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.LinkedList_Implementation_Of_Stack" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Next_Greater_Element" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -94,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find_missing_elements_of_a_range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.find_missing_elements_of_a_range" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Next_Greater_Element" />
         <item itemvalue="Application.Stack_Default_Implementation" />
         <item itemvalue="Application.LinkedList_Implementation_Of_Stack" />
         <item itemvalue="Application.ArrayImplementataionOfStack" />
         <item itemvalue="Application.count_distinct_elements_in_a_window" />
-        <item itemvalue="Application.find_missing_elements_of_a_range" />
       </list>
     </recent_temporary>
   </component>
@@ -125,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00034" summary="new program added">
-      <created>1652596222784</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1652596222784</updated>
     </task>
     <task id="LOCAL-00035" summary="new program added">
       <created>1652596525601</created>
@@ -469,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657084574613</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Stack using in built class in java...">
+      <created>1657107750715</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1657107750715</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,6 +492,7 @@
     <MESSAGE value="new program added" />
     <MESSAGE value="Stack in array..." />
     <MESSAGE value="Stack using LinkedList..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack using LinkedList..." />
+    <MESSAGE value="Stack using in built class in java..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack using in built class in java..." />
   </component>
 </project>
