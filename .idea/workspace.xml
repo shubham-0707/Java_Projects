@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="new program added">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/ArrayImplementataionOfStack.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Stack in array...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/LinkedList_Implementation_Of_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,22 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayImplementataionOfStack">
+  <component name="RunManager" selected="Application.LinkedList_Implementation_Of_Stack">
     <configuration name="ArrayImplementataionOfStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.ArrayImplementataionOfStack" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList_Implementation_Of_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.LinkedList_Implementation_Of_Stack" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minimumCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.minimumCoins" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList_Implementation_Of_Stack" />
         <item itemvalue="Application.ArrayImplementataionOfStack" />
         <item itemvalue="Application.count_distinct_elements_in_a_window" />
         <item itemvalue="Application.find_missing_elements_of_a_range" />
         <item itemvalue="Application.SubArray_Sum" />
-        <item itemvalue="Application.minimumCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -126,20 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00030" summary="new program added">
-      <created>1652590788950</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1652590788950</updated>
-    </task>
-    <task id="LOCAL-00031" summary="new program added">
-      <created>1652591286276</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1652591286276</updated>
     </task>
     <task id="LOCAL-00032" summary="new program added">
       <created>1652591394664</created>
@@ -470,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656939473277</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Stack in array...">
+      <created>1657081600094</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1657081600094</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Stack in array...">
+      <created>1657081634384</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1657081634384</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,6 +490,7 @@
     <MESSAGE value="array using functions implemented" />
     <MESSAGE value="2D array using functions" />
     <MESSAGE value="new program added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new program added" />
+    <MESSAGE value="Stack in array..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack in array..." />
   </component>
 </project>
