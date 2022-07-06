@@ -2,7 +2,7 @@ package com.example.Stack;
 
 
 
-// This is the program to implement stack using arrays....
+// This is the program to implement stack using arrays.......
 class ArrayStack{
     public int top;
     public int size;
