@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Stack using in built class in java...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Find the next greater element in the array...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/NextGreaterElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Next_Greater_Element">
+  <component name="RunManager" selected="Application.NextGreaterElement">
     <configuration name="ArrayImplementataionOfStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.ArrayImplementataionOfStack" />
       <module name="Java_Problems" />
@@ -58,6 +58,19 @@
     </configuration>
     <configuration name="LinkedList_Implementation_Of_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.LinkedList_Implementation_Of_Stack" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.NextGreaterElement" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_distinct_elements_in_a_window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.count_distinct_elements_in_a_window" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.Next_Greater_Element" />
         <item itemvalue="Application.Stack_Default_Implementation" />
         <item itemvalue="Application.LinkedList_Implementation_Of_Stack" />
         <item itemvalue="Application.ArrayImplementataionOfStack" />
-        <item itemvalue="Application.count_distinct_elements_in_a_window" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00035" summary="new program added">
-      <created>1652596525601</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1652596525601</updated>
     </task>
     <task id="LOCAL-00036" summary="new program added">
       <created>1652705448097</created>
@@ -470,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657107750715</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Find the next greater element in the array...">
+      <created>1657137733195</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1657137733211</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,6 +493,7 @@
     <MESSAGE value="Stack in array..." />
     <MESSAGE value="Stack using LinkedList..." />
     <MESSAGE value="Stack using in built class in java..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack using in built class in java..." />
+    <MESSAGE value="Find the next greater element in the array..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Find the next greater element in the array..." />
   </component>
 </project>
