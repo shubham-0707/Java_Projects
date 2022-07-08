@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Queue implementation using array...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/next_smaller_element.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Next Smaller element in an array...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Greater_Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.next_smaller_element">
+  <component name="RunManager" selected="Application.Previous_Greater_Element">
     <configuration name="Array_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Queue.Array_Implementation" />
       <module name="Java_Problems" />
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Next_Greater_Element" />
+    <configuration name="Next_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Next_greater_index" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Next_greater_index" />
+    <configuration name="Previous_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Greater_Element" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Previous_Greater_Element" />
         <item itemvalue="Application.next_smaller_element" />
         <item itemvalue="Application.Next_greater_index" />
         <item itemvalue="Application.Array_Implementation" />
         <item itemvalue="Application.NextGreaterElement" />
-        <item itemvalue="Application.Next_Greater_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00039" summary="new program added">
-      <created>1652962429826</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1652962429826</updated>
     </task>
     <task id="LOCAL-00040" summary="new program added">
       <created>1652962559136</created>
@@ -470,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657305387559</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Next Smaller element in an array...">
+      <created>1657305919044</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1657305919044</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,6 +496,7 @@
     <MESSAGE value="Stack using in built class in java..." />
     <MESSAGE value="Find the next greater element in the array..." />
     <MESSAGE value="Queue implementation using array..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue implementation using array..." />
+    <MESSAGE value="Next Smaller element in an array..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Next Smaller element in an array..." />
   </component>
 </project>

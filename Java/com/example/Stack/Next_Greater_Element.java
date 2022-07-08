@@ -16,7 +16,7 @@ public class Next_Greater_Element {
 
         Stack<Integer> st = new Stack<>();
         Stack<Integer> ans = new Stack<>();
-        for(int i=n-1 ; i>=0 ; i--){
+        for(int i=n-1 ; i>=0 ; i++){
             if(st.isEmpty()){
                 st.push(arr[i]);
                 ans.push(-1);
