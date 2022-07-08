@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Queue implementation using array...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Next_greater_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/next_smaller_element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Next_greater_index">
+  <component name="RunManager" selected="Application.next_smaller_element">
     <configuration name="Array_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Queue.Array_Implementation" />
       <module name="Java_Problems" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_Default_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Stack_Default_Implementation" />
+    <configuration name="next_smaller_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.next_smaller_element" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.next_smaller_element" />
         <item itemvalue="Application.Next_greater_index" />
         <item itemvalue="Application.Array_Implementation" />
         <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.Next_Greater_Element" />
-        <item itemvalue="Application.Stack_Default_Implementation" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00038" summary="new program added">
-      <created>1652956112379</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1652956112379</updated>
     </task>
     <task id="LOCAL-00039" summary="new program added">
       <created>1652962429826</created>
@@ -470,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657204338562</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Queue implementation using array...">
+      <created>1657305387558</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1657305387559</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
