@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Next Smaller element in an array...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Greater_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Smaller_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Smaller_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/next_smaller_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/previous_greater_index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/com/example/Stack/Next_Greater_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,46 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Previous_Greater_Element">
-    <configuration name="Array_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Queue.Array_Implementation" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.NextGreaterElement" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Next_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Next_greater_index" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Previous_Smaller_Index">
     <configuration name="Previous_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Greater_Element" />
       <module name="Java_Problems" />
@@ -96,8 +59,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="next_smaller_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.next_smaller_element" />
+    <configuration name="Previous_Smaller_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Smaller_Element" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Previous_Smaller_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Smaller_Index" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="next_smaller_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.next_smaller_index" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="previous_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Stack.previous_greater_index" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Previous_Smaller_Index" />
+        <item itemvalue="Application.Previous_Smaller_Element" />
+        <item itemvalue="Application.previous_greater_index" />
+        <item itemvalue="Application.next_smaller_index" />
         <item itemvalue="Application.Previous_Greater_Element" />
-        <item itemvalue="Application.next_smaller_element" />
-        <item itemvalue="Application.Next_greater_index" />
-        <item itemvalue="Application.Array_Implementation" />
-        <item itemvalue="Application.NextGreaterElement" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00040" summary="new program added">
-      <created>1652962559136</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1652962559136</updated>
     </task>
     <task id="LOCAL-00041" summary="new program added">
       <created>1652965073448</created>
@@ -471,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657305919044</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Next Smaller element in an array...">
+      <created>1657306950166</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1657306950166</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
