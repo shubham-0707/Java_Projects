@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Next Smaller element in an array...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Smaller_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/Previous_Smaller_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/next_smaller_index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Stack/previous_greater_index.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Previous Smaller Element">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/Integer_to_Roman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +42,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Previous_Smaller_Index">
-    <configuration name="Previous_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Greater_Element" />
+  <component name="RunManager" selected="Application.Integer_to_Roman">
+    <configuration name="Integer_to_Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.Integer_to_Roman" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="PATTERN" value="com.example.Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_to_Roman" />
         <item itemvalue="Application.Previous_Smaller_Index" />
         <item itemvalue="Application.Previous_Smaller_Element" />
         <item itemvalue="Application.previous_greater_index" />
         <item itemvalue="Application.next_smaller_index" />
-        <item itemvalue="Application.Previous_Greater_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -129,34 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00041" summary="new program added">
-      <created>1652965073448</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1652965073448</updated>
-    </task>
-    <task id="LOCAL-00042" summary="new program added">
-      <created>1653053749629</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1653053749629</updated>
-    </task>
-    <task id="LOCAL-00043" summary="new program added">
-      <created>1653058417662</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1653058417662</updated>
-    </task>
-    <task id="LOCAL-00044" summary="new program added">
-      <created>1653065500166</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1653065500166</updated>
     </task>
     <task id="LOCAL-00045" summary="new program added">
       <created>1653065596447</created>
@@ -473,7 +442,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657306950166</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Previous Smaller index in the array...">
+      <created>1657350598803</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1657350598803</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Next Smaller Index">
+      <created>1657350889293</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1657350889294</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Previous Greater index">
+      <created>1657350917711</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1657350917711</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Previous Smaller Element">
+      <created>1657350951766</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1657350951766</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,6 +496,10 @@
     <MESSAGE value="Find the next greater element in the array..." />
     <MESSAGE value="Queue implementation using array..." />
     <MESSAGE value="Next Smaller element in an array..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Next Smaller element in an array..." />
+    <MESSAGE value="Previous Smaller index in the array..." />
+    <MESSAGE value="Next Smaller Index" />
+    <MESSAGE value="Previous Greater index" />
+    <MESSAGE value="Previous Smaller Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Previous Smaller Element" />
   </component>
 </project>
