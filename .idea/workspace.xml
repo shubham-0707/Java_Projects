@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Previous Smaller Element">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Hashing/Integer_to_Roman.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Integer to Roman...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Queue/LinkedList_implementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Integer_to_Roman">
+  <component name="RunManager" selected="Application.LinkedList_implementation">
     <configuration name="Integer_to_Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Hashing.Integer_to_Roman" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.Hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Queue.LinkedList_implementation" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="next_smaller_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.next_smaller_index" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="previous_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Stack.previous_greater_index" />
       <module name="Java_Problems" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList_implementation" />
         <item itemvalue="Application.Integer_to_Roman" />
         <item itemvalue="Application.Previous_Smaller_Index" />
         <item itemvalue="Application.Previous_Smaller_Element" />
         <item itemvalue="Application.previous_greater_index" />
-        <item itemvalue="Application.next_smaller_index" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00045" summary="new program added">
-      <created>1653065596447</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1653065596447</updated>
     </task>
     <task id="LOCAL-00046" summary="new program added">
       <created>1653315416296</created>
@@ -470,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657350951766</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Integer to Roman...">
+      <created>1657465742425</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1657465742426</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,6 +500,7 @@
     <MESSAGE value="Next Smaller Index" />
     <MESSAGE value="Previous Greater index" />
     <MESSAGE value="Previous Smaller Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Previous Smaller Element" />
+    <MESSAGE value="Integer to Roman..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Integer to Roman..." />
   </component>
 </project>
