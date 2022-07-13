@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Integer to Roman...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Queue/LinkedList_implementation.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Queue using Linked List">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/factorial_of_a_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/palindrome_in_a_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_1_to_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_1_to_N_using_backtrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_N_to_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_N_to_1_using_backtrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_name_n_times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/reverse_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/sum_of_first_n_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/sum_of_n_numbers_parametrized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/Strange_Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +52,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedList_implementation">
-    <configuration name="Integer_to_Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Hashing.Integer_to_Roman" />
+  <component name="RunManager" selected="Application.palindrome_in_a_string">
+    <configuration name="factorial_of_a_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.factorial_of_a_number" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Hashing.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Queue.LinkedList_implementation" />
+    <configuration name="palindrome_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.palindrome_in_a_string" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Queue.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Previous_Smaller_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Smaller_Element" />
+    <configuration name="reverse_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.reverse_Array" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Previous_Smaller_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.Previous_Smaller_Index" />
+    <configuration name="sum_of_first_n_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.sum_of_first_n_numbers" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="previous_greater_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Stack.previous_greater_index" />
+    <configuration name="sum_of_n_numbers_parametrized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.sum_of_n_numbers_parametrized" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Stack.*" />
+          <option name="PATTERN" value="com.example.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedList_implementation" />
-        <item itemvalue="Application.Integer_to_Roman" />
-        <item itemvalue="Application.Previous_Smaller_Index" />
-        <item itemvalue="Application.Previous_Smaller_Element" />
-        <item itemvalue="Application.previous_greater_index" />
+        <item itemvalue="Application.palindrome_in_a_string" />
+        <item itemvalue="Application.reverse_Array" />
+        <item itemvalue="Application.factorial_of_a_number" />
+        <item itemvalue="Application.sum_of_n_numbers_parametrized" />
+        <item itemvalue="Application.sum_of_first_n_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -126,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00046" summary="new program added">
-      <created>1653315416296</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1653315416296</updated>
     </task>
     <task id="LOCAL-00047" summary="new program added">
       <created>1653315499096</created>
@@ -470,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657465742426</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Queue using Linked List">
+      <created>1657485716189</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1657485716189</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,6 +511,7 @@
     <MESSAGE value="Previous Greater index" />
     <MESSAGE value="Previous Smaller Element" />
     <MESSAGE value="Integer to Roman..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Integer to Roman..." />
+    <MESSAGE value="Queue using Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue using Linked List" />
   </component>
 </project>
