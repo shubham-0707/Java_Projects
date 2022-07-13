@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Queue using Linked List">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/factorial_of_a_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/palindrome_in_a_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_1_to_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_1_to_N_using_backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_N_to_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_N_to_1_using_backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/print_name_n_times.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/reverse_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/sum_of_first_n_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/sum_of_n_numbers_parametrized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Strings/Strange_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Some more questions on recursion.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +39,22 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.palindrome_in_a_string">
+  <component name="RunManager" selected="Application.fibonacci_number">
     <configuration name="factorial_of_a_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Recursion.factorial_of_a_number" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.fibonacci_number" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -92,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_of_first_n_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.sum_of_first_n_numbers" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sum_of_n_numbers_parametrized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Recursion.sum_of_n_numbers_parametrized" />
       <module name="Java_Problems" />
@@ -120,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci_number" />
         <item itemvalue="Application.palindrome_in_a_string" />
         <item itemvalue="Application.reverse_Array" />
         <item itemvalue="Application.factorial_of_a_number" />
         <item itemvalue="Application.sum_of_n_numbers_parametrized" />
-        <item itemvalue="Application.sum_of_first_n_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -136,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00047" summary="new program added">
-      <created>1653315499096</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1653315499096</updated>
     </task>
     <task id="LOCAL-00048" summary="new program added">
       <created>1653316666704</created>
@@ -480,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657485716189</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Some more questions on recursion..">
+      <created>1657713501244</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1657713501245</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,6 +499,7 @@
     <MESSAGE value="Previous Smaller Element" />
     <MESSAGE value="Integer to Roman..." />
     <MESSAGE value="Queue using Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue using Linked List" />
+    <MESSAGE value="Some more questions on recursion.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Some more questions on recursion.." />
   </component>
 </project>
