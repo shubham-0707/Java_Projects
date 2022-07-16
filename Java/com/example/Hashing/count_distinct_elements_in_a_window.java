@@ -19,6 +19,7 @@ public class count_distinct_elements_in_a_window {
             hash.put(arr[i], hash.getOrDefault(arr[i], 0) + 1);
         }
         System.out.println(hash.size());
+
         int x = 0;
         for(int i=k ; i<arr.length ; i++) {
             if (hash.get(arr[x]) == 1) {
@@ -30,5 +31,6 @@ public class count_distinct_elements_in_a_window {
             System.out.println(hash.size());
             x++;
         }
+
     }
 }
