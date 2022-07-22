@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Some more questions on recursion..">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Tree/Inorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Tree/Postorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Tree/Preorder.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Tree traversals of DFS...">
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/minimum_steps_to_make_product_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/missing_number_in_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/Subsequence_Sum_equal_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/com/example/basic_programs/minimum_coins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +46,7 @@
     "last_opened_file_path": "D:/One Drive/OneDrive/Desktop/ChatApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Postorder">
-    <configuration name="Inorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Tree.Inorder" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.minimum_coins">
     <configuration name="Postorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Tree.Postorder" />
       <module name="Java_Problems" />
@@ -72,21 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Preorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Tree.Preorder" />
-      <module name="Java_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.SubSequences" />
+    <configuration name="Subsequence_Sum_equal_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.Subsequence_Sum_equal_K" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Recursion.fibonacci_number" />
+    <configuration name="minimum_coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basic_programs.minimum_coins" />
       <module name="Java_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Recursion.*" />
+          <option name="PATTERN" value="com.example.basic_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minimum_steps_to_make_product_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.minimum_steps_to_make_product_1" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missing_number_in_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Arrays.missing_number_in_an_array" />
+      <module name="Java_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.minimum_coins" />
+        <item itemvalue="Application.minimum_steps_to_make_product_1" />
+        <item itemvalue="Application.missing_number_in_an_array" />
+        <item itemvalue="Application.Subsequence_Sum_equal_K" />
         <item itemvalue="Application.Postorder" />
-        <item itemvalue="Application.Inorder" />
-        <item itemvalue="Application.Preorder" />
-        <item itemvalue="Application.SubSequences" />
-        <item itemvalue="Application.fibonacci_number" />
       </list>
     </recent_temporary>
   </component>
@@ -129,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00050" summary="new program added">
-      <created>1653317749426</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1653317749426</updated>
     </task>
     <task id="LOCAL-00051" summary="new program added">
       <created>1653329120880</created>
@@ -473,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657974234608</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Tree traversals of DFS...">
+      <created>1658149568727</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1658149568727</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,6 +507,7 @@
     <MESSAGE value="Integer to Roman..." />
     <MESSAGE value="Queue using Linked List" />
     <MESSAGE value="Some more questions on recursion.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Some more questions on recursion.." />
+    <MESSAGE value="Tree traversals of DFS..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree traversals of DFS..." />
   </component>
 </project>
