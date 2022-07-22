@@ -1,4 +1,4 @@
-package com.example.Sorting;
+package Java_Problems.Java.com.example.Sorting;
 import java.util.*;
 
 // Program to implement insertion sort...
