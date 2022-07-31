@@ -18,13 +18,15 @@ public class pascals_triangle {
 
         System.out.println("Printing pascals triangle ....");
 
-        for(int i=0 ; i<n ; i++){
-            for(int j=0 ; j<=n-i ; j++){
+        for(int i=1 ; i<=n ; i++){
+            //The first element of every line will always be 1:
+            int C = 1;
+            for(int j=0 ; j<n-i ; j++){
                 System.out.print(" ");
             }
-            for(int j=0 ; j<=i ; j++){
-                int nCr = fact(i)/(fact(i-j)*fact(j));
-                System.out.print(" "+nCr);
+            for(int j=1 ; j<=i ; j++){
+                System.out.print(C+" ");
+                C=C*(i-j)/j;
             }
             System.out.println();
         }

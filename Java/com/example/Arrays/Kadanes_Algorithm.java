@@ -22,12 +22,14 @@ public class Kadanes_Algorithm {
         int maxi = Integer.MIN_VALUE;
         for(int i=0 ; i<n ; i++){
             sum=sum+arr[i];
-            if(sum<0){
-                sum=0;
-            }
             if(sum>maxi){
                 maxi=sum;
             }
+
+            if(sum<0){
+                sum=0;
+            }
+
         }
 
         System.out.println("The maximum sum of the subarray in the array is : "+maxi);
