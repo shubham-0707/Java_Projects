@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="Tree traversals of DFS...">
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/minimum_steps_to_make_product_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Arrays/missing_number_in_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/Recursion/Subsequence_Sum_equal_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/com/example/basic_programs/minimum_coins.java" afterDir="false" />
+    <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="initial commit..">
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Kadanes_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Next_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Pascals_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/best_time_to_buy_and_sell_stocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/set_matrix_zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/sort_0_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_2/Find_repeating_and_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_2/Find_the_duplicate_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/One Drive/OneDrive/Desktop/ChatApp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/One Drive/OneDrive/Desktop/ChatApp&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.minimum_coins">
     <configuration name="Postorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Tree.Postorder" />
@@ -130,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00051" summary="new program added">
-      <created>1653329120880</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1653329120880</updated>
     </task>
     <task id="LOCAL-00052" summary="new program added">
       <created>1653408106139</created>
@@ -474,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658149568727</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="initial commit..">
+      <created>1659298872760</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1659298872761</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,6 +512,7 @@
     <MESSAGE value="Queue using Linked List" />
     <MESSAGE value="Some more questions on recursion.." />
     <MESSAGE value="Tree traversals of DFS..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tree traversals of DFS..." />
+    <MESSAGE value="initial commit.." />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit.." />
   </component>
 </project>
