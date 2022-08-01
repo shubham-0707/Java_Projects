@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afa9183-889b-4d40-8d52-9e9ea8b5f9c2" name="Changes" comment="initial commit..">
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Kadanes_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Next_Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/Pascals_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/best_time_to_buy_and_sell_stocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/set_matrix_zeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_1/sort_0_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_2/Find_repeating_and_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Striver_Sheet_Solutions_DayWise/Day_2/Find_the_duplicate_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651512174411</updated>
-    </task>
-    <task id="LOCAL-00052" summary="new program added">
-      <created>1653408106139</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1653408106140</updated>
     </task>
     <task id="LOCAL-00053" summary="new program added">
       <created>1653408187790</created>
@@ -478,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659298872761</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="initial commit..">
+      <created>1659300590392</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1659300590392</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
