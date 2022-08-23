@@ -7,7 +7,7 @@ public class Count_Inversions {
 
         int inv_count = 0;
         int[] temp = new int[end-start+1];
-        int i=start;
+        int i = start;
         int j = mid;
         int k=0;
 
