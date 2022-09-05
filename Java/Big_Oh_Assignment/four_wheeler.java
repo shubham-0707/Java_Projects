@@ -4,9 +4,9 @@ public class four_wheeler extends Vehicle {
 
 
     // this class is made to uniquely add some features to the cars which are not common to bike...
-    int no_of_airbags;
+    private int no_of_airbags;
 
-    String autopilot_or_not;
+    private String autopilot_or_not;
 
 
     public int getNo_of_airbags() {

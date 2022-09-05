@@ -5,8 +5,8 @@ public class two_wheeler extends Vehicle{
 
     // This class is made to uniquely add some features in the bike which are not common to car....
 
-    String model; // BS-4 or BS-5
-    String wheel_type; // alloy or non alloy...
+    private String model; // BS-4 or BS-5
+    private String wheel_type; // alloy or non alloy...
 
     public String getModel() {
         return model;
