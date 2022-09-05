@@ -30,4 +30,4 @@ public class Main{
         System.out.println("Is vehicle used ? : "+car1.getNew_or_used());
         System.out.println("----------------------------------------");
     }
-}
+} 

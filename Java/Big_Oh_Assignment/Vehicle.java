@@ -8,6 +8,8 @@ public class Vehicle {
 
     private String new_or_used;
 
+
+    // this is my default constructor...
     Vehicle(){
         this.name = "Test data";
         this.structure = "Test data";
@@ -16,6 +18,8 @@ public class Vehicle {
         this.new_or_used = "Test data";
     }
 
+
+    // this is my parametrised constructor...
     Vehicle(String name , String structure , String fuel_type , String imp_or_not, String new_or_used){
         this.name = name;
         this.structure = structure;
@@ -24,6 +28,8 @@ public class Vehicle {
         this.new_or_used = new_or_used;
     }
 
+
+    // Applying getter and setter..
     public String getName() {
         return name;
     }
