@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.print(0%3);
+        System.out.print(100&150);
 
     }
 }
